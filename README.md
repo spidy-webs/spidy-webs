@@ -82,5 +82,6 @@ currently learning
 <img src="https://streak-stats.demolab.com/?user=spidy-webs&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 <br/>
-some changes
+
 <br/>
+ALWAYS UP FOR FUN AND WORK
