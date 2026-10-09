@@ -67,16 +67,6 @@ currently learning
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🌐 **Portfolio Site** | Personal responsive portfolio featuring motion animations. | `Next.js` `Tailwind` | [Live Demo ↗](https://github.com/spidy-webs) |
-| ⚙️ **CLI Tool** | Fast system utility built from scratch. | `C++` `Make` | [Repository ↗](https://github.com/spidy-webs) |
-| 🎬 **Motion Presets** | Open-source After Effects expressions and transition assets. | `AE Expressions` | [View Assets ↗](https://github.com/spidy-webs) |
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
