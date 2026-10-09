@@ -75,15 +75,18 @@ currently learning
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=spidy-webs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 
 <br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=spidy-webs&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spidy-webs&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
-<br/><br/>
+<br/>
+<br/>
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=spidy-webs&color=6366f1&style=for-the-badge)](https://github.com/spidy-webs)
 
